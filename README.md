@@ -1,5 +1,5 @@
 - Hi, I’m Raffo👋
-- I’m interested in Invormatic/Computer
+- I’m interested in Informatic/Computer
 - I’m currently learning Linux
 - How to reach me whit discord!
 
