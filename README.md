@@ -1,7 +1,7 @@
 - Hi, I’m Raffo👋
-- I’m interested in Informatic/Computer
-- I’m currently learning Linux
-- How to reach me whit discord!
+- I’m interested in Informatic
+- I’m currently learning Linux and Python
+- Discord ./Raffo#5493
 
 <!---
 Raffo-GHub/Raffo-GHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
