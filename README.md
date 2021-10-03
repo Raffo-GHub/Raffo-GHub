@@ -1,6 +1,5 @@
-- Hi, I’m Raffo👋
-- I’m interested in Informatic
-- I’m currently learning Linux and Python
+- Hi, I’m Raffo
+- I’m interested in Informatic and i currently learning Linux and Python
 - Discord ./Raffo#5493
 
 <!---
